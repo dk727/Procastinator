@@ -24,6 +24,6 @@ Abdolaziz Bozorgzadeh:
 Benjamin Garber: 
 
 
-Dalya Khatun: Sine we are 4 and there's 6 activities, two of us have to pick 2 each I guess. I will pick up one of the left over one.    :D 
+Dalya Khatun: Since we are 4 and there's 6 activities, two of us have to pick 2 each I guess. I will pick up one of the left over one.    :D 
 
 Kevin Haro:
