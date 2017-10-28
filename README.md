@@ -9,11 +9,11 @@ Kevin Haro
 To Do List: Enter your name on the activity you would like to do. 
 
 1. Activity List,                 Developer Name: Dalya Khatun 
-2. Set Activity/Block Timer,      Developer Name: 
-3. Site Block On/Off,             Developer Name: 
-4. Blocked Website Groups,        Developer Name: 
-5. Alerts,                        Developer Name: 
-6. My Activity Data,              Developer Name: 
+2. Set Activity/Block Timer,      Developer Name: ?
+3. Site Block On/Off,             Developer Name: ?
+4. Blocked Website Groups,        Developer Name: ?
+5. Alerts,                        Developer Name: ?
+6. My Activity Data,              Developer Name: ?
 
 
 Messages from team members--> 
