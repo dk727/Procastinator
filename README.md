@@ -13,7 +13,7 @@ To Do List: Enter your name on the activity you would like to do.
 3. Site Block On/Off,             Developer Name: ?
 4. Blocked Website Groups,        Developer Name: ?
 5. Alerts,                        Developer Name: ?
-6. My Activity Data,              Developer Name: ?
+6. My Activity Data,              Developer Name: Kevin Haro
 
 
 Messages from team members--> 
