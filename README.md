@@ -26,4 +26,4 @@ Benjamin Garber:
 
 Dalya Khatun: Since we are 4 and there's 6 activities, two of us have to pick 2 each I guess. I will pick up one of the left over one.    :D 
 
-Kevin Haro:
+Kevin Haro: Save work here, https://github.com/Kharo1/Procastinator-main 
