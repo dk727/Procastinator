@@ -12,7 +12,7 @@ To Do List: Enter your name on the activity you would like to do.
 2. Set Activity/Block Timer,      Developer Name: ?
 3. Site Block On/Off,             Developer Name: ?
 4. Blocked Website Groups,        Developer Name: ?
-5. Alerts,                        Developer Name: ?
+5. Alerts,                        Developer Name: B. Daniel Garber
 6. My Activity Data,              Developer Name: Kevin Haro
 
 
