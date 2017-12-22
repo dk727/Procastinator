@@ -1,4 +1,4 @@
-# Procastinator
+# Procrastinator
 Mobile App Development Project
 Group 8 
 Abdolaziz Bozorgzadeh 
